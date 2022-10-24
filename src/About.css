@@ -1,0 +1,24 @@
+.about{
+    text-align: left;
+    width: 285px;
+    margin-left: 18px;
+    margin-top: 35px;
+    font-size: 20px;
+    font-weight: 700px;
+    color: #F5F5F5;
+    line-height: 150%;
+}
+
+p{
+    margin-left: 18px;
+    width: 285px;
+    text-align: left;
+    font-size: 13px;
+    font-weight: 400;
+    margin-top: -13px;
+    line-height: 150%;
+}
+
+.linkedin-link{
+    text-decoration: none;
+}

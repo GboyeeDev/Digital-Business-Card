@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@500&family=Rajdhani:wght@500&family=Silkscreen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter+Tight:wght@500&family=Silkscreen&display=swap');
+
+
+body {
+  margin: 0;
+  font-family: 'Rajdhani', sans-serif;
+  /* font-family: 'Silkscreen', cursive; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #23252C;
+  color: white;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
