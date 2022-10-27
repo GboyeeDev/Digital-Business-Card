@@ -6,7 +6,7 @@ import "./Info.css"
 function Info() {
     return(
         <div className="info">
-            <img src={image} className="img" alt="description of something" />
+            <img src={image} className="img" alt="description" />
             <h1 className="name">Olugboyega Ojelabi</h1>
             <h2 className="title">Frontend Developer</h2>
             <a className="website" href="https://olugboyega-ojelabi.netlify.app">olugboyega-ojelabi.netlify.app</a>
