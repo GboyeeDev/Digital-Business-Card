@@ -1,6 +1,4 @@
-import twitter from "./Twitter.png"
-import instagram from "./Instagram.png"
-import github from "./GitHub.png"
+
 
 import './Footer.css'
 
